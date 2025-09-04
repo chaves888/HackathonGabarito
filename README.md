@@ -139,12 +139,3 @@ flutter run
 📱 Flutter App  →  🌐 Spring Boot API  →  🗄 MySQL
 (Mobile)          (Backend + Web)         (Banco de dados)
 ```
-
----
-
-## 👥 Equipe
-
-- Gabriel Paiva de Almeida – 13631  
-- Leonardo Chaves – 10471  
-- Matheus Urbano Mackert – 13629  
-- Bianca Gabriela da Silva – 14149
